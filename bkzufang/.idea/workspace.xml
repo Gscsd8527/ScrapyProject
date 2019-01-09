@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="324779be-0190-41dc-b428-41a1b5574da8" name="Default Changelist" comment="" />
+    <list default="true" id="324779be-0190-41dc-b428-41a1b5574da8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bkzufang/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-150">
-              <caret line="54" selection-start-line="54" selection-start-column="2" selection-end-line="56" selection-end-column="3" />
+            <state relative-caret-position="260">
+              <caret line="52" column="42" lean-forward="true" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -70,6 +72,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -82,11 +87,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="193" />
+    <option name="x" value="10" />
+    <option name="y" value="152" />
     <option name="width" value="1773" />
     <option name="height" value="1084" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -168,15 +174,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545707941226</updated>
-      <workItem from="1545707942542" duration="16583000" />
+      <workItem from="1545707942542" duration="16961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16583000" />
+    <option name="totallyTimeSpent" value="16961000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="155" width="1418" height="867" extended-state="0" />
+    <frame x="8" y="122" width="1418" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22205882" />
@@ -185,7 +192,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.75" />
+      <window_info anchor="bottom" id="Terminal" weight="0.68163264" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -238,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bkzufang/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="54" selection-start-line="54" selection-start-column="2" selection-end-line="56" selection-end-column="3" />
+        <state relative-caret-position="260">
+          <caret line="52" column="42" lean-forward="true" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
         </state>
       </provider>
     </entry>
